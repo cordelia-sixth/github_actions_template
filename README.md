@@ -1,0 +1,2 @@
+# github_actions_template
+Github Actionsに使う設定ファイルのtemplateです。
